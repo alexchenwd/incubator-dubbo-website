@@ -142,6 +142,13 @@ export default {
         desc: '在前面的博客中，我们了解了Dubbo扩展机制的一些概念，初探了Dubbo中LoadBalance的实现，并自己实现了一个LoadBalance。接下来，我们就深入Dubbo的源码，一睹庐山真面目。',
         link: '/blog/introduction-to-dubbo-spi-2.md',
       },
+      {
+        title: 'Instance of Dubbo Extension Mechanism',
+        author: '@BaiJi 268-4',
+        dateStr: 'Aug 7th, 2018',
+        desc: 'In this article, we will discuss another great feature of Dubbo, its scalability',
+        link: '/blog/en-us/introduction-to-dubbo-spi-en-us.md',
+      },
     ]
   },
 };
